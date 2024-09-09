@@ -4,8 +4,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/hello_world/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/variable_study/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function_part/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/variable_study/target" />
+      <excludeFolder url="file://$MODULE_DIR$/function_part/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
